@@ -1,4 +1,4 @@
-### Hi there 👋
+### Microsoft MVP | Microsoft Certified Trainer | Sr Software Engineer | C# Corner MVP | MCTS, MCP | .NET Full Stack Developer| Tech Blogger | Community Speaker | dotnetcopilot.com, @rijsat.com  👋
 
 <!--
 **SatyaKarki/SatyaKarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
